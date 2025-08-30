@@ -6,6 +6,7 @@ import FreeCardSection2 from './FreeCardSection2'
 import GiftCardSlider from './GiftCardSlider'
 import Navbar from './Navbar'
 import Slider from './Slider'
+import SurvaySubmit from './SurvaySubmit'
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       {/* <OffersSection/> */}
       <FreeCardSection2/>
       <EmailSubmit/>
+      <SurvaySubmit/>
     </>
   )
 }
