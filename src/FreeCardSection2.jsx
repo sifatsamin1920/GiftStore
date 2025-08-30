@@ -20,8 +20,8 @@ const FreeCardSection2 = () => {
   ]
 
   return (
-    <section className="py-12 bg-orange-200 mt-20 rounded-4xl">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <section className="p-12 bg-orange-200 mt-20 rounded-4xl max-w-[1380px] mx-auto">
+      <div className="px-4 sm:px-6 lg:px-8">
         <h2 className="font-bold text-center mb-10 text-xl sm:text-2xl md:text-3xl lg:text-4xl">
           Exciting Offers!
         </h2>

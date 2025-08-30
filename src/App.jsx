@@ -1,5 +1,6 @@
 import './App.css'
 import CourseSlider from './CourseSlider'
+import EmailSubmit from './EmailSubmit'
 import OffersSection from './FreeCardsAmazon'
 import FreeCardSection2 from './FreeCardSection2'
 import GiftCardSlider from './GiftCardSlider'
@@ -15,6 +16,7 @@ function App() {
       <GiftCardSlider/>
       {/* <OffersSection/> */}
       <FreeCardSection2/>
+      <EmailSubmit/>
     </>
   )
 }
