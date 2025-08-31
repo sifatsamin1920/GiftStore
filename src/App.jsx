@@ -1,4 +1,5 @@
 import './App.css'
+import BuyNowGiftCards from './BuyNowGiftCards'
 import CourseSlider from './CourseSlider'
 import EmailSubmit from './EmailSubmit'
 import OffersSection from './FreeCardsAmazon'
@@ -11,14 +12,15 @@ import SurvaySubmit from './SurvaySubmit'
 function App() {
   return (
     <>
-      <Navbar/>
+      <Navbar />
       {/* <Slider/> */}
       {/* <CourseSlider/> */}
-      <GiftCardSlider/>
       {/* <OffersSection/> */}
-      <FreeCardSection2/>
-      <EmailSubmit/>
-      <SurvaySubmit/>
+      <GiftCardSlider id="home" />
+      <FreeCardSection2 id="exciting" />
+      <EmailSubmit id="exclusive" />
+      <SurvaySubmit id="outstanding" />
+      <BuyNowGiftCards id="buynow"/>
     </>
   )
 }

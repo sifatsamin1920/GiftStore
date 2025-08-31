@@ -46,7 +46,7 @@ const giftCards = [
 
 const GiftCardSlider = () => {
     return (
-        <div className="w-full px-6 py-10 bg-slate-900">
+        <div id="home" className="w-full px-6 py-10 bg-slate-900">
             <Swiper
                 modules={[Autoplay]}
                 spaceBetween={1}
