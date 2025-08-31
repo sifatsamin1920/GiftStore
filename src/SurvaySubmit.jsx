@@ -9,14 +9,14 @@ import RewardZonechatgpt from './assets/For_Survays/RewardZonechatgpt.png'
 
 const SurvaySubmit = () => {
     const cards = [
-        { title: "Exclusive Deals", desc: "Unlock discounts only for subscribers.", img: YourOpinionMattersChatgpt1, bg: "bg-gradient-to-b from-indigo-700 to-indigo-900", headerBg: "bg-indigo-950", btnBg: "bg-indigo-950", btnHover: "hover:bg-indigo-800" },
-        { title: "Join the Club", desc: "Become part of our growing community.", img: EarnRewardsChatgpt, bg: "bg-gradient-to-b from-amber-600 to-amber-800", headerBg: "bg-amber-950", btnBg: "bg-amber-950", btnHover: "hover:bg-amber-800" },
-        { title: "Special Offers", desc: "Enjoy subscriber-only promotions.", img: EasyTasksChatGpt, bg: "bg-gradient-to-b from-stone-500 to-stone-700", headerBg: "bg-stone-900", btnBg: "bg-stone-900", btnHover: "hover:bg-stone-700" },
-        { title: "Direct to You", desc: "No searching just get free delivered.", img: InstantRewardsChatgpt, bg: "bg-gradient-to-b from-cyan-600 to-cyan-900", headerBg: "bg-cyan-950", btnBg: "bg-cyan-950", btnHover: "hover:bg-cyan-800" },
-        { title: "Discover More", desc: "Find new exclusive opportunities weekly.", img: Answerwinchatgpt, bg: "bg-gradient-to-b from-rose-700 to-rose-900", headerBg: "bg-rose-950", btnBg: "bg-rose-950", btnHover: "hover:bg-rose-800" },
-        { title: "Dont Miss Out", desc: "The good stuff only comes to your inbox.", img: TrustedSurveysChatgpt, bg: "bg-gradient-to-b from-emerald-600 to-emerald-900", headerBg: "bg-emerald-950", btnBg: "bg-emerald-950", btnHover: "hover:bg-emerald-800" },
-        { title: "Get the Secrets", desc: "Insider tricks you won’t find online.", img: SmartChoiceChatgpt, bg: "bg-gradient-to-b from-orange-700 to-orange-900", headerBg: "bg-orange-950", btnBg: "bg-orange-950", btnHover: "hover:bg-orange-800" },
-        { title: "Unlock Hidden Gems", desc: "Content too good to post anywhere else.", img: RewardZonechatgpt, bg: "bg-gradient-to-b from-purple-700 to-purple-900", headerBg: "bg-purple-950", btnBg: "bg-purple-950", btnHover: "hover:bg-purple-800" },
+        { title: "Your Opinion Matters", desc: "Help us improve with your feedback.", img: YourOpinionMattersChatgpt1, bg: "bg-gradient-to-b from-indigo-700 to-indigo-900", headerBg: "bg-indigo-950", btnBg: "bg-indigo-950", btnHover: "hover:bg-indigo-800" },
+        { title: "Earn Rewards", desc: "Get exciting rewards for every survey.", img: EarnRewardsChatgpt, bg: "bg-gradient-to-b from-amber-600 to-amber-800", headerBg: "bg-amber-950", btnBg: "bg-amber-950", btnHover: "hover:bg-amber-800" },
+        { title: "Easy Tasks", desc: "Simple questions, quick & easy answers.", img: EasyTasksChatGpt, bg: "bg-gradient-to-b from-stone-500 to-stone-700", headerBg: "bg-stone-900", btnBg: "bg-stone-900", btnHover: "hover:bg-stone-700" },
+        { title: "Instant Rewards", desc: "Complete surveys, earn instantly.", img: InstantRewardsChatgpt, bg: "bg-gradient-to-b from-cyan-600 to-cyan-900", headerBg: "bg-cyan-950", btnBg: "bg-cyan-950", btnHover: "hover:bg-cyan-800" },
+        { title: "Answer & Win", desc: "Your answers bring exciting rewards.", img: Answerwinchatgpt, bg: "bg-gradient-to-b from-rose-700 to-rose-900", headerBg: "bg-rose-950", btnBg: "bg-rose-950", btnHover: "hover:bg-rose-800" },
+        { title: "Trusted Surveys", desc: "100% safe & reliable to get free rewards.", img: TrustedSurveysChatgpt, bg: "bg-gradient-to-b from-emerald-600 to-emerald-900", headerBg: "bg-emerald-950", btnBg: "bg-emerald-950", btnHover: "hover:bg-emerald-800" },
+        { title: "Smart Choice", desc: "Surveys that pays smart people like you.", img: SmartChoiceChatgpt, bg: "bg-gradient-to-b from-orange-700 to-orange-900", headerBg: "bg-orange-950", btnBg: "bg-orange-950", btnHover: "hover:bg-orange-800" },
+        { title: "Reward Zone", desc: "Your gateway to prizes and rewards.", img: RewardZonechatgpt, bg: "bg-gradient-to-b from-purple-700 to-purple-900", headerBg: "bg-purple-950", btnBg: "bg-purple-950", btnHover: "hover:bg-purple-800" },
     ]
 
     return (
